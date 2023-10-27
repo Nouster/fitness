@@ -1,0 +1,15 @@
+/Users/mohameddjebali/eclipse-workspace/fitness/src/main/java/fr/doranco/md/fitness/business/Course.java
+/Users/mohameddjebali/eclipse-workspace/fitness/src/main/java/fr/doranco/md/fitness/dao/impl/TapisDaoImpl.java
+/Users/mohameddjebali/eclipse-workspace/fitness/src/main/java/fr/doranco/md/fitness/dao/AbonneDao.java
+/Users/mohameddjebali/eclipse-workspace/fitness/src/main/java/fr/doranco/md/fitness/dao/impl/AbonneDaoImpl.java
+/Users/mohameddjebali/eclipse-workspace/fitness/src/main/java/fr/doranco/md/fitness/business/Abonne.java
+/Users/mohameddjebali/eclipse-workspace/fitness/src/main/java/fr/doranco/md/fitness/services/TapisService.java
+/Users/mohameddjebali/eclipse-workspace/fitness/src/main/java/fr/doranco/md/fitness/services/impl/TapisServiceImpl.java
+/Users/mohameddjebali/eclipse-workspace/fitness/src/main/java/fr/doranco/md/fitness/dao/Requete.java
+/Users/mohameddjebali/eclipse-workspace/fitness/src/main/java/fr/doranco/md/fitness/dao/TapisDao.java
+/Users/mohameddjebali/eclipse-workspace/fitness/src/main/java/fr/doranco/md/fitness/JakartaRestConfiguration.java
+/Users/mohameddjebali/eclipse-workspace/fitness/src/main/java/fr/doranco/md/fitness/dao/ConnexionBdd.java
+/Users/mohameddjebali/eclipse-workspace/fitness/src/main/java/fr/doranco/md/fitness/dao/CourseDao.java
+/Users/mohameddjebali/eclipse-workspace/fitness/src/main/java/fr/doranco/md/fitness/servlet/Index.java
+/Users/mohameddjebali/eclipse-workspace/fitness/src/main/java/fr/doranco/md/fitness/business/Tapis.java
+/Users/mohameddjebali/eclipse-workspace/fitness/src/main/java/fr/doranco/md/fitness/dao/impl/CourseDaoImpl.java
